@@ -9,3 +9,5 @@ There are two main files here, `encode.sh` and `recover.sh` They use Image Magic
 The only 'gotcha' is the file needs to padded to the byte size of the pixel resolution you want. I use `truncate` for that in encode.sh.
 
 DOOM logo copyright iD software.
+
+Steganography code from this Image Magick thread. https://legacy.imagemagick.org/discourse-server/viewtopic.php?t=30958
